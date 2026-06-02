@@ -1,0 +1,8 @@
+partyLocation
+encryptedLocation
+shiftValue
+hostName
+friendName
+invitationMessage
+isPartySecret
+numberOfGuests
